@@ -1,4 +1,3 @@
-from faulthandler import is_enabled
 from stack import Stack
 
 def paranthesis_checker(paranthesis):
